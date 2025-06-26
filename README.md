@@ -76,8 +76,6 @@ Authentication:
 POST /authenticate: –---> Login and receive JWT token
 
 
-
-
 Badge APIs:
 -----------
 
