@@ -96,23 +96,6 @@ Security:
 
 * Authorization: Bearer <token>
 
-Folder Structure:
-------------------
-
-src/
-├── main/
-│   ├── java/
-│   │   └── com/example/project
-│   │       ├── controller
-│   │       ├── service
-│   │       ├── dto
-│   │       ├── entity
-│   │       ├── repository
-│   │       └── security
-│   └── resources/
-│       ├── application.properties
-│       └── data.sql (optional)
-
 
 
 Author:
